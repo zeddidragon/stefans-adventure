@@ -1,0 +1,6014 @@
+{
+    "frames": {
+        "actor/stefan-darkness/idle/0039": {
+            "frame": {
+                "x": 0,
+                "y": 449,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-darkness/match-start/0000": {
+            "frame": {
+                "x": 32,
+                "y": 449,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-darkness/match-start/0001": {
+            "frame": {
+                "x": 32,
+                "y": 385,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-darkness/match-start/0002": {
+            "frame": {
+                "x": 0,
+                "y": 385,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-darkness/match-start/0003": {
+            "frame": {
+                "x": 405,
+                "y": 352,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-no-cigarette/blab-head/0016": {
+            "frame": {
+                "x": 405,
+                "y": 320,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-no-cigarette/blab-head/0017": {
+            "frame": {
+                "x": 405,
+                "y": 288,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-no-cigarette/blab-head/0018": {
+            "frame": {
+                "x": 405,
+                "y": 256,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-no-cigarette/blab-head/0019": {
+            "frame": {
+                "x": 405,
+                "y": 224,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-no-cigarette/blab-head/0020": {
+            "frame": {
+                "x": 405,
+                "y": 192,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-no-cigarette/blab-head/0021": {
+            "frame": {
+                "x": 256,
+                "y": 353,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-no-cigarette/blab-head/0022": {
+            "frame": {
+                "x": 373,
+                "y": 64,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-no-cigarette/blab-head/0023": {
+            "frame": {
+                "x": 373,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-no-cigarette/cigarette-loop/0030": {
+            "frame": {
+                "x": 320,
+                "y": 321,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-no-cigarette/cigarette-loop/0031": {
+            "frame": {
+                "x": 288,
+                "y": 321,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-no-cigarette/cigarette-loop/0032": {
+            "frame": {
+                "x": 256,
+                "y": 321,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-no-cigarette/cigarette-loop/0033": {
+            "frame": {
+                "x": 224,
+                "y": 321,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-no-cigarette/cigarette-start/0024": {
+            "frame": {
+                "x": 192,
+                "y": 321,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-no-cigarette/cigarette-start/0025": {
+            "frame": {
+                "x": 373,
+                "y": 32,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-no-cigarette/cigarette-start/0026": {
+            "frame": {
+                "x": 64,
+                "y": 449,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-no-cigarette/cigarette-start/0027": {
+            "frame": {
+                "x": 405,
+                "y": 160,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-no-cigarette/cigarette-start/0028": {
+            "frame": {
+                "x": 405,
+                "y": 128,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-no-cigarette/cigarette-start/0029": {
+            "frame": {
+                "x": 405,
+                "y": 96,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-no-cigarette/cigarette-stop/0034": {
+            "frame": {
+                "x": 405,
+                "y": 64,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-no-cigarette/cigarette-stop/0035": {
+            "frame": {
+                "x": 405,
+                "y": 32,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-no-cigarette/frolic/0008": {
+            "frame": {
+                "x": 405,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-no-cigarette/frolic/0009": {
+            "frame": {
+                "x": 352,
+                "y": 353,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-no-cigarette/frolic/0010": {
+            "frame": {
+                "x": 320,
+                "y": 353,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-no-cigarette/frolic/0011": {
+            "frame": {
+                "x": 288,
+                "y": 353,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-no-cigarette/frolic/0012": {
+            "frame": {
+                "x": 269,
+                "y": 80,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-no-cigarette/frolic/0013": {
+            "frame": {
+                "x": 224,
+                "y": 353,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-no-cigarette/frolic/0014": {
+            "frame": {
+                "x": 192,
+                "y": 353,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-no-cigarette/frolic/0015": {
+            "frame": {
+                "x": 160,
+                "y": 353,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-no-cigarette/handle/0040": {
+            "frame": {
+                "x": 128,
+                "y": 353,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-no-cigarette/handle/0041": {
+            "frame": {
+                "x": 96,
+                "y": 353,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-no-cigarette/handle/0042": {
+            "frame": {
+                "x": 64,
+                "y": 353,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-no-cigarette/handle/0043": {
+            "frame": {
+                "x": 32,
+                "y": 353,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-no-cigarette/handle/0044": {
+            "frame": {
+                "x": 0,
+                "y": 353,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-no-cigarette/handle/0045": {
+            "frame": {
+                "x": 373,
+                "y": 320,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-no-cigarette/idle/0038": {
+            "frame": {
+                "x": 373,
+                "y": 288,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-no-cigarette/match/0000": {
+            "frame": {
+                "x": 373,
+                "y": 256,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-no-cigarette/match/0001": {
+            "frame": {
+                "x": 373,
+                "y": 224,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-no-cigarette/match/0002": {
+            "frame": {
+                "x": 373,
+                "y": 192,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan-no-cigarette/match/0003": {
+            "frame": {
+                "x": 373,
+                "y": 160,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/gun-aggress/0092": {
+            "frame": {
+                "x": 160,
+                "y": 321,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/gun-aggress/0093": {
+            "frame": {
+                "x": 128,
+                "y": 321,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/gun-aggress/0094": {
+            "frame": {
+                "x": 96,
+                "y": 321,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/gun-fx/0095": {
+            "frame": {
+                "x": 64,
+                "y": 321,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/gun-fx/0096": {
+            "frame": {
+                "x": 32,
+                "y": 321,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/gun-fx/0097": {
+            "frame": {
+                "x": 0,
+                "y": 321,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/gun-fx/0098": {
+            "frame": {
+                "x": 341,
+                "y": 288,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/gun-fx/0099": {
+            "frame": {
+                "x": 341,
+                "y": 256,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/gun-out/0076": {
+            "frame": {
+                "x": 341,
+                "y": 224,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/gun-out/0077": {
+            "frame": {
+                "x": 341,
+                "y": 192,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/gun-out/0078": {
+            "frame": {
+                "x": 341,
+                "y": 160,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/gun-out/0079": {
+            "frame": {
+                "x": 341,
+                "y": 128,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/gun-out/0080": {
+            "frame": {
+                "x": 341,
+                "y": 96,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/gun-out/0081": {
+            "frame": {
+                "x": 341,
+                "y": 64,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/gun-out/0082": {
+            "frame": {
+                "x": 341,
+                "y": 32,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/gun-out/0083": {
+            "frame": {
+                "x": 341,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/gun-out/0084": {
+            "frame": {
+                "x": 288,
+                "y": 289,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/gun-out/0085": {
+            "frame": {
+                "x": 256,
+                "y": 289,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/gun-out/0086": {
+            "frame": {
+                "x": 224,
+                "y": 289,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/gun-out/0087": {
+            "frame": {
+                "x": 192,
+                "y": 289,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/gun-out/0088": {
+            "frame": {
+                "x": 160,
+                "y": 289,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/gun-sheathe/0089": {
+            "frame": {
+                "x": 128,
+                "y": 289,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/gun-sheathe/0090": {
+            "frame": {
+                "x": 96,
+                "y": 289,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/gun-sheathe/0091": {
+            "frame": {
+                "x": 64,
+                "y": 289,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/ko/0100": {
+            "frame": {
+                "x": 32,
+                "y": 289,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/sword-aggress/0068": {
+            "frame": {
+                "x": 0,
+                "y": 289,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/sword-aggress/0069": {
+            "frame": {
+                "x": 309,
+                "y": 256,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/sword-aggress/0070": {
+            "frame": {
+                "x": 309,
+                "y": 224,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/sword-aggress/0071": {
+            "frame": {
+                "x": 309,
+                "y": 192,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/sword-aggress/0072": {
+            "frame": {
+                "x": 309,
+                "y": 160,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/sword-aggress/0073": {
+            "frame": {
+                "x": 309,
+                "y": 128,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/sword-aggress/0074": {
+            "frame": {
+                "x": 309,
+                "y": 96,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/sword-aggress/0075": {
+            "frame": {
+                "x": 309,
+                "y": 64,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/sword-out/0052": {
+            "frame": {
+                "x": 309,
+                "y": 32,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/sword-out/0053": {
+            "frame": {
+                "x": 309,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/sword-out/0054": {
+            "frame": {
+                "x": 256,
+                "y": 257,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/sword-out/0055": {
+            "frame": {
+                "x": 224,
+                "y": 257,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/sword-out/0056": {
+            "frame": {
+                "x": 192,
+                "y": 257,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/sword-out/0057": {
+            "frame": {
+                "x": 160,
+                "y": 257,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/sword-out/0058": {
+            "frame": {
+                "x": 128,
+                "y": 257,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/sword-out/0059": {
+            "frame": {
+                "x": 96,
+                "y": 257,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/sword-out/0060": {
+            "frame": {
+                "x": 64,
+                "y": 257,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/sword-out/0061": {
+            "frame": {
+                "x": 32,
+                "y": 257,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/sword-out/0062": {
+            "frame": {
+                "x": 0,
+                "y": 257,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/sword-out/0063": {
+            "frame": {
+                "x": 224,
+                "y": 169,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/sword-sheathe/0064": {
+            "frame": {
+                "x": 234,
+                "y": 57,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/sword-sheathe/0065": {
+            "frame": {
+                "x": 269,
+                "y": 208,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/sword-sheathe/0066": {
+            "frame": {
+                "x": 269,
+                "y": 176,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/battle/sword-sheathe/0067": {
+            "frame": {
+                "x": 269,
+                "y": 144,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/blab-head/0036": {
+            "frame": {
+                "x": 320,
+                "y": 385,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/blab-head/0037": {
+            "frame": {
+                "x": 352,
+                "y": 385,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/blab-head/0038": {
+            "frame": {
+                "x": 384,
+                "y": 385,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/blab-head/0039": {
+            "frame": {
+                "x": 437,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/blab-head/0040": {
+            "frame": {
+                "x": 437,
+                "y": 32,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/blab-head/0041": {
+            "frame": {
+                "x": 437,
+                "y": 64,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/blab-head/0042": {
+            "frame": {
+                "x": 437,
+                "y": 96,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/blab-head/0043": {
+            "frame": {
+                "x": 437,
+                "y": 128,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/blab-start/0001": {
+            "frame": {
+                "x": 437,
+                "y": 160,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/blab-start/0002": {
+            "frame": {
+                "x": 437,
+                "y": 192,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/blab-start/0003": {
+            "frame": {
+                "x": 437,
+                "y": 224,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/blab-start/0004": {
+            "frame": {
+                "x": 437,
+                "y": 256,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/blab-start/0005": {
+            "frame": {
+                "x": 437,
+                "y": 288,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/blab-start/0006": {
+            "frame": {
+                "x": 437,
+                "y": 320,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/blab-start/0007": {
+            "frame": {
+                "x": 437,
+                "y": 352,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/blab/0016": {
+            "frame": {
+                "x": 64,
+                "y": 385,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/blab/0017": {
+            "frame": {
+                "x": 96,
+                "y": 385,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/blab/0018": {
+            "frame": {
+                "x": 128,
+                "y": 385,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/blab/0019": {
+            "frame": {
+                "x": 160,
+                "y": 385,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/blab/0020": {
+            "frame": {
+                "x": 192,
+                "y": 385,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/blab/0021": {
+            "frame": {
+                "x": 224,
+                "y": 385,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/blab/0022": {
+            "frame": {
+                "x": 256,
+                "y": 385,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/blab/0023": {
+            "frame": {
+                "x": 288,
+                "y": 385,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/frolic/0008": {
+            "frame": {
+                "x": 437,
+                "y": 384,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/frolic/0009": {
+            "frame": {
+                "x": 0,
+                "y": 417,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/frolic/0010": {
+            "frame": {
+                "x": 32,
+                "y": 417,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/frolic/0011": {
+            "frame": {
+                "x": 64,
+                "y": 417,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/frolic/0012": {
+            "frame": {
+                "x": 96,
+                "y": 417,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/frolic/0013": {
+            "frame": {
+                "x": 128,
+                "y": 417,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/frolic/0014": {
+            "frame": {
+                "x": 160,
+                "y": 417,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/frolic/0015": {
+            "frame": {
+                "x": 192,
+                "y": 417,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/handle-crouch/0032": {
+            "frame": {
+                "x": 373,
+                "y": 96,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/handle-crouch/0033": {
+            "frame": {
+                "x": 469,
+                "y": 64,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/handle-crouch/0034": {
+            "frame": {
+                "x": 469,
+                "y": 96,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/handle-crouch/0035": {
+            "frame": {
+                "x": 469,
+                "y": 128,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/handle/0024": {
+            "frame": {
+                "x": 224,
+                "y": 417,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/handle/0025": {
+            "frame": {
+                "x": 256,
+                "y": 417,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/handle/0026": {
+            "frame": {
+                "x": 288,
+                "y": 417,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/handle/0027": {
+            "frame": {
+                "x": 320,
+                "y": 417,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/handle/0028": {
+            "frame": {
+                "x": 352,
+                "y": 417,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/handle/0029": {
+            "frame": {
+                "x": 384,
+                "y": 417,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/handle/0030": {
+            "frame": {
+                "x": 416,
+                "y": 417,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/handle/0031": {
+            "frame": {
+                "x": 469,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/idle/0000": {
+            "frame": {
+                "x": 469,
+                "y": 160,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/phone-start/0044": {
+            "frame": {
+                "x": 469,
+                "y": 320,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/phone-start/0045": {
+            "frame": {
+                "x": 469,
+                "y": 352,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/phone-start/0046": {
+            "frame": {
+                "x": 469,
+                "y": 384,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/phone-start/0047": {
+            "frame": {
+                "x": 469,
+                "y": 416,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/phone/0048": {
+            "frame": {
+                "x": 469,
+                "y": 192,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/phone/0049": {
+            "frame": {
+                "x": 469,
+                "y": 224,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/phone/0050": {
+            "frame": {
+                "x": 469,
+                "y": 256,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "actor/stefan/phone/0051": {
+            "frame": {
+                "x": 469,
+                "y": 288,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "empty": {
+            "frame": {
+                "x": 469,
+                "y": 448,
+                "w": 1,
+                "h": 1
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1,
+                "h": 1
+            },
+            "sourceSize": {
+                "w": 1,
+                "h": 1
+            }
+        },
+        "room/stefans-garden/background": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 70
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 70
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 70
+            }
+        },
+        "room/stefans-garden/cmap": {
+            "frame": {
+                "x": 104,
+                "y": 217,
+                "w": 50,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 50,
+                "h": 18
+            },
+            "sourceSize": {
+                "w": 50,
+                "h": 18
+            }
+        },
+        "room/stefans-garden/objects/flag/0000": {
+            "frame": {
+                "x": 256,
+                "y": 131,
+                "w": 13,
+                "h": 12
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 13,
+                "h": 12
+            },
+            "sourceSize": {
+                "w": 13,
+                "h": 12
+            }
+        },
+        "room/stefans-garden/objects/flag/0001": {
+            "frame": {
+                "x": 256,
+                "y": 181,
+                "w": 13,
+                "h": 12
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 13,
+                "h": 12
+            },
+            "sourceSize": {
+                "w": 13,
+                "h": 12
+            }
+        },
+        "room/stefans-garden/objects/flag/0002": {
+            "frame": {
+                "x": 256,
+                "y": 119,
+                "w": 13,
+                "h": 12
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 13,
+                "h": 12
+            },
+            "sourceSize": {
+                "w": 13,
+                "h": 12
+            }
+        },
+        "room/stefans-garden/objects/flag/0003": {
+            "frame": {
+                "x": 256,
+                "y": 169,
+                "w": 13,
+                "h": 12
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 13,
+                "h": 12
+            },
+            "sourceSize": {
+                "w": 13,
+                "h": 12
+            }
+        },
+        "room/stefans-garden/objects/flag/0004": {
+            "frame": {
+                "x": 101,
+                "y": 241,
+                "w": 13,
+                "h": 12
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 13,
+                "h": 12
+            },
+            "sourceSize": {
+                "w": 13,
+                "h": 12
+            }
+        },
+        "room/stefans-garden/objects/flag/0005": {
+            "frame": {
+                "x": 88,
+                "y": 241,
+                "w": 13,
+                "h": 12
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 13,
+                "h": 12
+            },
+            "sourceSize": {
+                "w": 13,
+                "h": 12
+            }
+        },
+        "room/stefans-garden/objects/flag/0006": {
+            "frame": {
+                "x": 244,
+                "y": 217,
+                "w": 13,
+                "h": 12
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 13,
+                "h": 12
+            },
+            "sourceSize": {
+                "w": 13,
+                "h": 12
+            }
+        },
+        "room/stefans-garden/objects/shadow/Image10000": {
+            "frame": {
+                "x": 269,
+                "y": 112,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "room/stefans-garden/objects/shadow/Image10001": {
+            "frame": {
+                "x": 469,
+                "y": 32,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "room/stefans-garden/objects/shadow/Image10002": {
+            "frame": {
+                "x": 373,
+                "y": 128,
+                "w": 32,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            }
+        },
+        "room/stefans-garden/objects/tree": {
+            "frame": {
+                "x": 200,
+                "y": 0,
+                "w": 69,
+                "h": 57
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 69,
+                "h": 57
+            },
+            "sourceSize": {
+                "w": 69,
+                "h": 57
+            }
+        },
+        "room/stefans-garden/sky": {
+            "frame": {
+                "x": 0,
+                "y": 140,
+                "w": 165,
+                "h": 29
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 165,
+                "h": 29
+            },
+            "sourceSize": {
+                "w": 165,
+                "h": 29
+            }
+        },
+        "room/stefans-room/background": {
+            "frame": {
+                "x": 0,
+                "y": 70,
+                "w": 200,
+                "h": 70
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 70
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 70
+            }
+        },
+        "room/stefans-room/cmap": {
+            "frame": {
+                "x": 154,
+                "y": 217,
+                "w": 50,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 50,
+                "h": 18
+            },
+            "sourceSize": {
+                "w": 50,
+                "h": 18
+            }
+        },
+        "room/stefans-room/objects/bed": {
+            "frame": {
+                "x": 48,
+                "y": 217,
+                "w": 56,
+                "h": 24
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 56,
+                "h": 24
+            },
+            "sourceSize": {
+                "w": 56,
+                "h": 24
+            }
+        },
+        "room/stefans-room/objects/bow": {
+            "frame": {
+                "x": 234,
+                "y": 109,
+                "w": 24,
+                "h": 8
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 24,
+                "h": 8
+            },
+            "sourceSize": {
+                "w": 24,
+                "h": 8
+            }
+        },
+        "room/stefans-room/objects/cigarettes": {
+            "frame": {
+                "x": 189,
+                "y": 160,
+                "w": 8,
+                "h": 8
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 8,
+                "h": 8
+            },
+            "sourceSize": {
+                "w": 8,
+                "h": 8
+            }
+        },
+        "room/stefans-room/objects/closet-door/0000": {
+            "frame": {
+                "x": 0,
+                "y": 217,
+                "w": 48,
+                "h": 40
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 48,
+                "h": 40
+            },
+            "sourceSize": {
+                "w": 48,
+                "h": 40
+            }
+        },
+        "room/stefans-room/objects/closet-door/0001": {
+            "frame": {
+                "x": 176,
+                "y": 169,
+                "w": 48,
+                "h": 40
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 48,
+                "h": 40
+            },
+            "sourceSize": {
+                "w": 48,
+                "h": 40
+            }
+        },
+        "room/stefans-room/objects/closet-door/0002": {
+            "frame": {
+                "x": 128,
+                "y": 169,
+                "w": 48,
+                "h": 40
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 48,
+                "h": 40
+            },
+            "sourceSize": {
+                "w": 48,
+                "h": 40
+            }
+        },
+        "room/stefans-room/objects/closet-door/0003": {
+            "frame": {
+                "x": 80,
+                "y": 169,
+                "w": 48,
+                "h": 40
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 48,
+                "h": 40
+            },
+            "sourceSize": {
+                "w": 48,
+                "h": 40
+            }
+        },
+        "room/stefans-room/objects/flashlight": {
+            "frame": {
+                "x": 256,
+                "y": 193,
+                "w": 8,
+                "h": 8
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 8,
+                "h": 8
+            },
+            "sourceSize": {
+                "w": 8,
+                "h": 8
+            }
+        },
+        "room/stefans-room/objects/game-consoles": {
+            "frame": {
+                "x": 165,
+                "y": 160,
+                "w": 24,
+                "h": 8
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 24,
+                "h": 8
+            },
+            "sourceSize": {
+                "w": 24,
+                "h": 8
+            }
+        },
+        "room/stefans-room/objects/heavy-machine-gun": {
+            "frame": {
+                "x": 224,
+                "y": 201,
+                "w": 24,
+                "h": 8
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 24,
+                "h": 8
+            },
+            "sourceSize": {
+                "w": 24,
+                "h": 8
+            }
+        },
+        "room/stefans-room/objects/light-switch/off": {
+            "frame": {
+                "x": 256,
+                "y": 143,
+                "w": 8,
+                "h": 8
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 8,
+                "h": 8
+            },
+            "sourceSize": {
+                "w": 8,
+                "h": 8
+            }
+        },
+        "room/stefans-room/objects/light-switch/on": {
+            "frame": {
+                "x": 258,
+                "y": 109,
+                "w": 8,
+                "h": 8
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 8,
+                "h": 8
+            },
+            "sourceSize": {
+                "w": 8,
+                "h": 8
+            }
+        },
+        "room/stefans-room/objects/lockpicks": {
+            "frame": {
+                "x": 301,
+                "y": 104,
+                "w": 8,
+                "h": 8
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 8,
+                "h": 8
+            },
+            "sourceSize": {
+                "w": 8,
+                "h": 8
+            }
+        },
+        "room/stefans-room/objects/magic-staff": {
+            "frame": {
+                "x": 301,
+                "y": 80,
+                "w": 8,
+                "h": 24
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 8,
+                "h": 24
+            },
+            "sourceSize": {
+                "w": 8,
+                "h": 24
+            }
+        },
+        "room/stefans-room/objects/nightstand": {
+            "frame": {
+                "x": 384,
+                "y": 449,
+                "w": 24,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 24,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 24,
+                "h": 16
+            }
+        },
+        "room/stefans-room/objects/outside-door/0000": {
+            "frame": {
+                "x": 40,
+                "y": 169,
+                "w": 40,
+                "h": 48
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 40,
+                "h": 48
+            },
+            "sourceSize": {
+                "w": 40,
+                "h": 48
+            }
+        },
+        "room/stefans-room/objects/outside-door/0001": {
+            "frame": {
+                "x": 0,
+                "y": 169,
+                "w": 40,
+                "h": 48
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 40,
+                "h": 48
+            },
+            "sourceSize": {
+                "w": 40,
+                "h": 48
+            }
+        },
+        "room/stefans-room/objects/outside-door/0002": {
+            "frame": {
+                "x": 200,
+                "y": 119,
+                "w": 40,
+                "h": 48
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 40,
+                "h": 48
+            },
+            "sourceSize": {
+                "w": 40,
+                "h": 48
+            }
+        },
+        "room/stefans-room/objects/outside-door/0003": {
+            "frame": {
+                "x": 269,
+                "y": 0,
+                "w": 40,
+                "h": 48
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 40,
+                "h": 48
+            },
+            "sourceSize": {
+                "w": 40,
+                "h": 48
+            }
+        },
+        "room/stefans-room/objects/phone": {
+            "frame": {
+                "x": 104,
+                "y": 209,
+                "w": 16,
+                "h": 8
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 8
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 8
+            }
+        },
+        "room/stefans-room/objects/retarded-hat": {
+            "frame": {
+                "x": 248,
+                "y": 201,
+                "w": 16,
+                "h": 8
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 8
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 8
+            }
+        },
+        "room/stefans-room/objects/safe/closed": {
+            "frame": {
+                "x": 288,
+                "y": 257,
+                "w": 16,
+                "h": 24
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 24
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 24
+            }
+        },
+        "room/stefans-room/objects/shadow": {
+            "frame": {
+                "x": 240,
+                "y": 119,
+                "w": 16,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 32
+            }
+        },
+        "room/stefans-room/objects/stereo-speakers": {
+            "frame": {
+                "x": 269,
+                "y": 48,
+                "w": 40,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 40,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 40,
+                "h": 32
+            }
+        },
+        "room/stefans-room/objects/swords": {
+            "frame": {
+                "x": 240,
+                "y": 151,
+                "w": 24,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 24,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 24,
+                "h": 16
+            }
+        },
+        "room/stefans-room/objects/television": {
+            "frame": {
+                "x": 352,
+                "y": 449,
+                "w": 32,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 16
+            }
+        },
+        "room/stefans-room/objects/vase": {
+            "frame": {
+                "x": 301,
+                "y": 112,
+                "w": 8,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 8,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 8,
+                "h": 16
+            }
+        },
+        "room/stefans-room/objects/video-games": {
+            "frame": {
+                "x": 80,
+                "y": 209,
+                "w": 24,
+                "h": 8
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 24,
+                "h": 8
+            },
+            "sourceSize": {
+                "w": 24,
+                "h": 8
+            }
+        },
+        "room/stefans-room/sky": {
+            "frame": {
+                "x": 200,
+                "y": 57,
+                "w": 34,
+                "h": 62
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 34,
+                "h": 62
+            },
+            "sourceSize": {
+                "w": 34,
+                "h": 62
+            }
+        },
+        "ui/font/!": {
+            "frame": {
+                "x": 266,
+                "y": 57,
+                "w": 3,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 3,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 3,
+                "h": 10
+            }
+        },
+        "ui/font/\"": {
+            "frame": {
+                "x": 301,
+                "y": 176,
+                "w": 8,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 8,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 8,
+                "h": 10
+            }
+        },
+        "ui/font/#": {
+            "frame": {
+                "x": 471,
+                "y": 449,
+                "w": 7,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 7,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 7,
+                "h": 10
+            }
+        },
+        "ui/font/$": {
+            "frame": {
+                "x": 352,
+                "y": 321,
+                "w": 9,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 9,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 9,
+                "h": 10
+            }
+        },
+        "ui/font/%": {
+            "frame": {
+                "x": 408,
+                "y": 449,
+                "w": 7,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 7,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 7,
+                "h": 10
+            }
+        },
+        "ui/font/&": {
+            "frame": {
+                "x": 301,
+                "y": 154,
+                "w": 8,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 8,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 8,
+                "h": 10
+            }
+        },
+        "ui/font/'": {
+            "frame": {
+                "x": 465,
+                "y": 417,
+                "w": 4,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 4,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 4,
+                "h": 10
+            }
+        },
+        "ui/font/(": {
+            "frame": {
+                "x": 158,
+                "y": 469,
+                "w": 5,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 5,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 5,
+                "h": 10
+            }
+        },
+        "ui/font/)": {
+            "frame": {
+                "x": 153,
+                "y": 469,
+                "w": 5,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 5,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 5,
+                "h": 10
+            }
+        },
+        "ui/font/*": {
+            "frame": {
+                "x": 148,
+                "y": 469,
+                "w": 5,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 5,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 5,
+                "h": 10
+            }
+        },
+        "ui/font/+": {
+            "frame": {
+                "x": 464,
+                "y": 449,
+                "w": 7,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 7,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 7,
+                "h": 10
+            }
+        },
+        "ui/font/,": {
+            "frame": {
+                "x": 167,
+                "y": 469,
+                "w": 4,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 4,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 4,
+                "h": 10
+            }
+        },
+        "ui/font/-": {
+            "frame": {
+                "x": 457,
+                "y": 449,
+                "w": 7,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 7,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 7,
+                "h": 10
+            }
+        },
+        "ui/font/.": {
+            "frame": {
+                "x": 175,
+                "y": 469,
+                "w": 4,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 4,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 4,
+                "h": 10
+            }
+        },
+        "ui/font//": {
+            "frame": {
+                "x": 304,
+                "y": 267,
+                "w": 5,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 5,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 5,
+                "h": 10
+            }
+        },
+        "ui/font/0": {
+            "frame": {
+                "x": 242,
+                "y": 241,
+                "w": 9,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 9,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 9,
+                "h": 10
+            }
+        },
+        "ui/font/1": {
+            "frame": {
+                "x": 463,
+                "y": 437,
+                "w": 6,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 6,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 6,
+                "h": 10
+            }
+        },
+        "ui/font/2": {
+            "frame": {
+                "x": 448,
+                "y": 417,
+                "w": 9,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 9,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 9,
+                "h": 10
+            }
+        },
+        "ui/font/3": {
+            "frame": {
+                "x": 152,
+                "y": 241,
+                "w": 9,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 9,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 9,
+                "h": 10
+            }
+        },
+        "ui/font/4": {
+            "frame": {
+                "x": 161,
+                "y": 241,
+                "w": 9,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 9,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 9,
+                "h": 10
+            }
+        },
+        "ui/font/5": {
+            "frame": {
+                "x": 170,
+                "y": 241,
+                "w": 9,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 9,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 9,
+                "h": 10
+            }
+        },
+        "ui/font/6": {
+            "frame": {
+                "x": 188,
+                "y": 241,
+                "w": 9,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 9,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 9,
+                "h": 10
+            }
+        },
+        "ui/font/7": {
+            "frame": {
+                "x": 206,
+                "y": 241,
+                "w": 9,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 9,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 9,
+                "h": 10
+            }
+        },
+        "ui/font/8": {
+            "frame": {
+                "x": 215,
+                "y": 241,
+                "w": 9,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 9,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 9,
+                "h": 10
+            }
+        },
+        "ui/font/9": {
+            "frame": {
+                "x": 233,
+                "y": 241,
+                "w": 9,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 9,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 9,
+                "h": 10
+            }
+        },
+        "ui/font/:": {
+            "frame": {
+                "x": 163,
+                "y": 469,
+                "w": 4,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 4,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 4,
+                "h": 10
+            }
+        },
+        "ui/font/;": {
+            "frame": {
+                "x": 171,
+                "y": 469,
+                "w": 4,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 4,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 4,
+                "h": 10
+            }
+        },
+        "ui/font/<": {
+            "frame": {
+                "x": 124,
+                "y": 469,
+                "w": 6,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 6,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 6,
+                "h": 10
+            }
+        },
+        "ui/font/=": {
+            "frame": {
+                "x": 443,
+                "y": 449,
+                "w": 7,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 7,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 7,
+                "h": 10
+            }
+        },
+        "ui/font/>": {
+            "frame": {
+                "x": 130,
+                "y": 469,
+                "w": 6,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 6,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 6,
+                "h": 10
+            }
+        },
+        "ui/font/?": {
+            "frame": {
+                "x": 143,
+                "y": 241,
+                "w": 9,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 9,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 9,
+                "h": 10
+            }
+        },
+        "ui/font/@": {
+            "frame": {
+                "x": 197,
+                "y": 241,
+                "w": 9,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 9,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 9,
+                "h": 10
+            }
+        },
+        "ui/font/A": {
+            "frame": {
+                "x": 224,
+                "y": 241,
+                "w": 9,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 9,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 9,
+                "h": 10
+            }
+        },
+        "ui/font/B": {
+            "frame": {
+                "x": 329,
+                "y": 299,
+                "w": 9,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 9,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 9,
+                "h": 10
+            }
+        },
+        "ui/font/C": {
+            "frame": {
+                "x": 425,
+                "y": 405,
+                "w": 9,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 9,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 9,
+                "h": 10
+            }
+        },
+        "ui/font/D": {
+            "frame": {
+                "x": 416,
+                "y": 405,
+                "w": 9,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 9,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 9,
+                "h": 10
+            }
+        },
+        "ui/font/E": {
+            "frame": {
+                "x": 425,
+                "y": 395,
+                "w": 9,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 9,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 9,
+                "h": 10
+            }
+        },
+        "ui/font/F": {
+            "frame": {
+                "x": 416,
+                "y": 395,
+                "w": 9,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 9,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 9,
+                "h": 10
+            }
+        },
+        "ui/font/G": {
+            "frame": {
+                "x": 425,
+                "y": 385,
+                "w": 9,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 9,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 9,
+                "h": 10
+            }
+        },
+        "ui/font/H": {
+            "frame": {
+                "x": 416,
+                "y": 385,
+                "w": 9,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 9,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 9,
+                "h": 10
+            }
+        },
+        "ui/font/I": {
+            "frame": {
+                "x": 136,
+                "y": 469,
+                "w": 6,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 6,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 6,
+                "h": 10
+            }
+        },
+        "ui/font/J": {
+            "frame": {
+                "x": 384,
+                "y": 373,
+                "w": 9,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 9,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 9,
+                "h": 10
+            }
+        },
+        "ui/font/K": {
+            "frame": {
+                "x": 393,
+                "y": 363,
+                "w": 9,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 9,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 9,
+                "h": 10
+            }
+        },
+        "ui/font/L": {
+            "frame": {
+                "x": 384,
+                "y": 363,
+                "w": 9,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 9,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 9,
+                "h": 10
+            }
+        },
+        "ui/font/M": {
+            "frame": {
+                "x": 393,
+                "y": 353,
+                "w": 9,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 9,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 9,
+                "h": 10
+            }
+        },
+        "ui/font/N": {
+            "frame": {
+                "x": 384,
+                "y": 353,
+                "w": 9,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 9,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 9,
+                "h": 10
+            }
+        },
+        "ui/font/O": {
+            "frame": {
+                "x": 361,
+                "y": 341,
+                "w": 9,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 9,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 9,
+                "h": 10
+            }
+        },
+        "ui/font/P": {
+            "frame": {
+                "x": 352,
+                "y": 341,
+                "w": 9,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 9,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 9,
+                "h": 10
+            }
+        },
+        "ui/font/Q": {
+            "frame": {
+                "x": 329,
+                "y": 289,
+                "w": 9,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 9,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 9,
+                "h": 10
+            }
+        },
+        "ui/font/R": {
+            "frame": {
+                "x": 352,
+                "y": 331,
+                "w": 9,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 9,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 9,
+                "h": 10
+            }
+        },
+        "ui/font/S": {
+            "frame": {
+                "x": 361,
+                "y": 321,
+                "w": 9,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 9,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 9,
+                "h": 10
+            }
+        },
+        "ui/font/T": {
+            "frame": {
+                "x": 124,
+                "y": 241,
+                "w": 10,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 10,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 10,
+                "h": 10
+            }
+        },
+        "ui/font/U": {
+            "frame": {
+                "x": 329,
+                "y": 309,
+                "w": 9,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 9,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 9,
+                "h": 10
+            }
+        },
+        "ui/font/V": {
+            "frame": {
+                "x": 320,
+                "y": 309,
+                "w": 9,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 9,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 9,
+                "h": 10
+            }
+        },
+        "ui/font/W": {
+            "frame": {
+                "x": 134,
+                "y": 241,
+                "w": 9,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 9,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 9,
+                "h": 10
+            }
+        },
+        "ui/font/X": {
+            "frame": {
+                "x": 320,
+                "y": 299,
+                "w": 9,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 9,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 9,
+                "h": 10
+            }
+        },
+        "ui/font/Y": {
+            "frame": {
+                "x": 114,
+                "y": 241,
+                "w": 10,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 10,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 10,
+                "h": 10
+            }
+        },
+        "ui/font/Z": {
+            "frame": {
+                "x": 320,
+                "y": 289,
+                "w": 9,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 9,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 9,
+                "h": 10
+            }
+        },
+        "ui/font/[": {
+            "frame": {
+                "x": 264,
+                "y": 151,
+                "w": 5,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 5,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 5,
+                "h": 10
+            }
+        },
+        "ui/font/\\": {
+            "frame": {
+                "x": 304,
+                "y": 257,
+                "w": 5,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 5,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 5,
+                "h": 10
+            }
+        },
+        "ui/font/]": {
+            "frame": {
+                "x": 464,
+                "y": 427,
+                "w": 5,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 5,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 5,
+                "h": 10
+            }
+        },
+        "ui/font/^": {
+            "frame": {
+                "x": 436,
+                "y": 449,
+                "w": 7,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 7,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 7,
+                "h": 10
+            }
+        },
+        "ui/font/_": {
+            "frame": {
+                "x": 429,
+                "y": 449,
+                "w": 7,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 7,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 7,
+                "h": 10
+            }
+        },
+        "ui/font/`": {
+            "frame": {
+                "x": 183,
+                "y": 469,
+                "w": 4,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 4,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 4,
+                "h": 10
+            }
+        },
+        "ui/font/a": {
+            "frame": {
+                "x": 301,
+                "y": 196,
+                "w": 8,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 8,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 8,
+                "h": 10
+            }
+        },
+        "ui/font/b": {
+            "frame": {
+                "x": 117,
+                "y": 469,
+                "w": 7,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 7,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 7,
+                "h": 10
+            }
+        },
+        "ui/font/c": {
+            "frame": {
+                "x": 110,
+                "y": 469,
+                "w": 7,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 7,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 7,
+                "h": 10
+            }
+        },
+        "ui/font/d": {
+            "frame": {
+                "x": 301,
+                "y": 144,
+                "w": 8,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 8,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 8,
+                "h": 10
+            }
+        },
+        "ui/font/e": {
+            "frame": {
+                "x": 96,
+                "y": 469,
+                "w": 7,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 7,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 7,
+                "h": 10
+            }
+        },
+        "ui/font/f": {
+            "frame": {
+                "x": 478,
+                "y": 449,
+                "w": 7,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 7,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 7,
+                "h": 10
+            }
+        },
+        "ui/font/g": {
+            "frame": {
+                "x": 103,
+                "y": 469,
+                "w": 7,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 7,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 7,
+                "h": 10
+            }
+        },
+        "ui/font/h": {
+            "frame": {
+                "x": 492,
+                "y": 449,
+                "w": 7,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 7,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 7,
+                "h": 10
+            }
+        },
+        "ui/font/i": {
+            "frame": {
+                "x": 179,
+                "y": 469,
+                "w": 4,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 4,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 4,
+                "h": 10
+            }
+        },
+        "ui/font/j": {
+            "frame": {
+                "x": 142,
+                "y": 469,
+                "w": 6,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 6,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 6,
+                "h": 10
+            }
+        },
+        "ui/font/k": {
+            "frame": {
+                "x": 301,
+                "y": 164,
+                "w": 8,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 8,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 8,
+                "h": 10
+            }
+        },
+        "ui/font/l": {
+            "frame": {
+                "x": 187,
+                "y": 469,
+                "w": 4,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 4,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 4,
+                "h": 10
+            }
+        },
+        "ui/font/m": {
+            "frame": {
+                "x": 251,
+                "y": 241,
+                "w": 9,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 9,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 9,
+                "h": 10
+            }
+        },
+        "ui/font/n": {
+            "frame": {
+                "x": 456,
+                "y": 437,
+                "w": 7,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 7,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 7,
+                "h": 10
+            }
+        },
+        "ui/font/o": {
+            "frame": {
+                "x": 485,
+                "y": 449,
+                "w": 7,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 7,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 7,
+                "h": 10
+            }
+        },
+        "ui/font/p": {
+            "frame": {
+                "x": 450,
+                "y": 449,
+                "w": 7,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 7,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 7,
+                "h": 10
+            }
+        },
+        "ui/font/q": {
+            "frame": {
+                "x": 301,
+                "y": 186,
+                "w": 8,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 8,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 8,
+                "h": 10
+            }
+        },
+        "ui/font/r": {
+            "frame": {
+                "x": 448,
+                "y": 437,
+                "w": 8,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 8,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 8,
+                "h": 10
+            }
+        },
+        "ui/font/s": {
+            "frame": {
+                "x": 301,
+                "y": 208,
+                "w": 8,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 8,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 8,
+                "h": 10
+            }
+        },
+        "ui/font/t": {
+            "frame": {
+                "x": 415,
+                "y": 449,
+                "w": 7,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 7,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 7,
+                "h": 10
+            }
+        },
+        "ui/font/u": {
+            "frame": {
+                "x": 301,
+                "y": 218,
+                "w": 8,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 8,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 8,
+                "h": 10
+            }
+        },
+        "ui/font/v": {
+            "frame": {
+                "x": 301,
+                "y": 228,
+                "w": 8,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 8,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 8,
+                "h": 10
+            }
+        },
+        "ui/font/w": {
+            "frame": {
+                "x": 179,
+                "y": 241,
+                "w": 9,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 9,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 9,
+                "h": 10
+            }
+        },
+        "ui/font/x": {
+            "frame": {
+                "x": 457,
+                "y": 417,
+                "w": 8,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 8,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 8,
+                "h": 10
+            }
+        },
+        "ui/font/y": {
+            "frame": {
+                "x": 448,
+                "y": 427,
+                "w": 8,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 8,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 8,
+                "h": 10
+            }
+        },
+        "ui/font/z": {
+            "frame": {
+                "x": 456,
+                "y": 427,
+                "w": 8,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 8,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 8,
+                "h": 10
+            }
+        },
+        "ui/font/Å": {
+            "frame": {
+                "x": 393,
+                "y": 373,
+                "w": 9,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 9,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 9,
+                "h": 10
+            }
+        },
+        "ui/font/Æ": {
+            "frame": {
+                "x": 257,
+                "y": 217,
+                "w": 10,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 10,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 10,
+                "h": 10
+            }
+        },
+        "ui/font/Ø": {
+            "frame": {
+                "x": 260,
+                "y": 241,
+                "w": 9,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 9,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 9,
+                "h": 10
+            }
+        },
+        "ui/font/å": {
+            "frame": {
+                "x": 301,
+                "y": 128,
+                "w": 8,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 8,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 8,
+                "h": 10
+            }
+        },
+        "ui/font/æ": {
+            "frame": {
+                "x": 361,
+                "y": 331,
+                "w": 9,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 9,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 9,
+                "h": 10
+            }
+        },
+        "ui/font/ø": {
+            "frame": {
+                "x": 422,
+                "y": 449,
+                "w": 7,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 7,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 7,
+                "h": 10
+            }
+        },
+        "ui/hud/actions/blab": {
+            "frame": {
+                "x": 48,
+                "y": 241,
+                "w": 40,
+                "h": 13
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 40,
+                "h": 13
+            },
+            "sourceSize": {
+                "w": 40,
+                "h": 13
+            }
+        },
+        "ui/hud/actions/gawk": {
+            "frame": {
+                "x": 204,
+                "y": 217,
+                "w": 40,
+                "h": 13
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 40,
+                "h": 13
+            },
+            "sourceSize": {
+                "w": 40,
+                "h": 13
+            }
+        },
+        "ui/hud/actions/handle": {
+            "frame": {
+                "x": 269,
+                "y": 240,
+                "w": 40,
+                "h": 13
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 40,
+                "h": 13
+            },
+            "sourceSize": {
+                "w": 40,
+                "h": 13
+            }
+        },
+        "ui/hud/inventory/selected": {
+            "frame": {
+                "x": 320,
+                "y": 449,
+                "w": 32,
+                "h": 20
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 20
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 20
+            }
+        },
+        "ui/hud/inventory/slot": {
+            "frame": {
+                "x": 288,
+                "y": 449,
+                "w": 32,
+                "h": 20
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 20
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 20
+            }
+        },
+        "ui/inventory/bullseye": {
+            "frame": {
+                "x": 160,
+                "y": 449,
+                "w": 32,
+                "h": 20
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 20
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 20
+            }
+        },
+        "ui/inventory/flashlight": {
+            "frame": {
+                "x": 128,
+                "y": 449,
+                "w": 32,
+                "h": 20
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 20
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 20
+            }
+        },
+        "ui/inventory/kojin": {
+            "frame": {
+                "x": 96,
+                "y": 449,
+                "w": 32,
+                "h": 20
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 20
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 20
+            }
+        },
+        "ui/inventory/lockpicks": {
+            "frame": {
+                "x": 165,
+                "y": 140,
+                "w": 32,
+                "h": 20
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 20
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 20
+            }
+        },
+        "ui/inventory/mashiro": {
+            "frame": {
+                "x": 234,
+                "y": 89,
+                "w": 32,
+                "h": 20
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 20
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 20
+            }
+        },
+        "ui/inventory/matches": {
+            "frame": {
+                "x": 256,
+                "y": 449,
+                "w": 32,
+                "h": 20
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 20
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 20
+            }
+        },
+        "ui/inventory/padlock": {
+            "frame": {
+                "x": 224,
+                "y": 449,
+                "w": 32,
+                "h": 20
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 20
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 20
+            }
+        },
+        "ui/inventory/phone": {
+            "frame": {
+                "x": 192,
+                "y": 449,
+                "w": 32,
+                "h": 20
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 20
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 20
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith (modified by Zeddy)",
+        "image": "sprites.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 501,
+            "h": 481
+        },
+        "scale": 1
+    }
+}
